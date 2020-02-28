@@ -1,6 +1,4 @@
-# This is the problem for First technical round for the role of Computer Vision Engineer at Vectorly
-# More details at https://www.linkedin.com/jobs/view/1629909785/
-#
+
 # Write a function which will segment and extract the text overlay "Bart & Homer's EXCELLENT Adventure" 
 # Input image is at https://vectorly.io/demo/simpsons_frame0.png
 # Output : Image with only the overlay visible and everything else white
